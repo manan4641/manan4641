@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @manan4641
+- 👋 Hi, I’m Abdul Manan
+- ✨ I have more than 4.5 years of industry experience in Web Development.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Wordpress, Javascript and React Js
-- 💞️ I’m looking to forward to connect with any resputeable organization for emerging skills
+- 🌱 I’m currently learning Javascript and React-Js
+- 💞️ I’m looking forward to connecting with any responsible organization for emerging skills
 - 📫 How to reach me ... email me on abdulmanan4641@gmail.com
 
 <!---
